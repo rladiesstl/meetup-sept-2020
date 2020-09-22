@@ -14,11 +14,14 @@ options(htmltools.dir.version = FALSE)
 ```
 
 # Materials for tonight 
+
+- Required tools
+  + Install R and RStudio
+  + Excel or Google Sheets
     
 - Install R packages:
-    + shiny
-    + shinythemes
-    + rsconnect 
+    + tidyverse
+    + janitor
 
 ---
 
