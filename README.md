@@ -2,5 +2,14 @@
 
 ### How to Take your Data from Messy to Tidy with Erin Grand
 
-1. About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-sept-2020/
+About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-sept-2020/
+
+### Required tools:
+- R and R Studio installed
+- Excel or google sheets
+
+### Required packages:
+- tidyverse
+- janitor
+
 
